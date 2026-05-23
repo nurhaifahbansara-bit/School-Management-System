@@ -1,5 +1,4 @@
 # School Management System
-# School Management System
 *Academic Project | Completed during my 1st year 2nd sem*
 
 This is a web-based application built using ASP.NET Core MVC. It is designed to help educational institutions manage their daily school operations and data more efficiently.
